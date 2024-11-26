@@ -4,7 +4,7 @@ The code I write as part of my MPhys project exploring extensions to the Standar
 # Targets
 - [x] Create model that predicts DM relic density better than random sampling of target range
 - [x] Reduce MAE to below 25% of mean absolute target error
-- [ ] Eliminate mode collapse
+- [ ] Completely eliminate mode collapse
 - [x] Create plot of MAE in bins of true relic density
 - [ ] Plot upper cutoff of relic density against number of valid but excluded pMSSM models
-- [ ] Apply EWKino model to Bino-DM
+- [ ] Apply EWKino model to Bino-DM and evaluate performance
