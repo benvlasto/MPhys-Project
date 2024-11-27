@@ -1,5 +1,5 @@
 # MPhys-Project
-The code I write as part of my MPhys project exploring extensions to the Standard Model of particle physics.
+My MPhys project exploring extensions to the Standard Model of particle physics. This project involves deep learning with large datasets from the LHC.
 
 # Targets
 - [x] Create model that predicts DM relic density better than random sampling of target range
