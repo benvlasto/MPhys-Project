@@ -8,3 +8,4 @@ The code I write as part of my MPhys project exploring extensions to the Standar
 - [x] Create plot of MAE in bins of true relic density
 - [x] Plot upper cutoff of relic density against number of valid but excluded pMSSM models
 - [ ] Apply EWKino model to Bino-DM and evaluate performance
+- [ ] Apply same relic density cutoff technique to CLs
