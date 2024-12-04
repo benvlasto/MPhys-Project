@@ -1,7 +1,7 @@
 # MPhys-Project
 My MPhys project exploring extensions to the Standard Model of particle physics. This project involves deep learning with large datasets from the LHC.
 
-Headline result so far: over a year of processing by the LHC computing cluster, my CLs predicting model could save over a month of wasted processing time.
+Headline result so far: over a year of processing by the LHC computing cluster, my CLs predicting model could save over a month of processing time wasted on invalid (CLs < 0.05) models.
 
 # Targets
 - [x] Create model that predicts DM relic density better than random sampling of target range
