@@ -1,7 +1,7 @@
 # MPhys-Project
 My MPhys project exploring extensions to the Standard Model of particle physics. This project involves deep learning with large datasets from the LHC.
 
-Headline result so far: over a year of processing by the LHC computing cluster, my CLs predicting model could save more than a month of processing time wasted on invalid models (CLs < 0.05).
+Headline result so far: my CLs predicting model can correctly remove 45% of invalid models whilst removing only 1% of valid models. This translates to saving more than a month of processing by the LHC computing cluster out of a year total, for the recent EWKino scan.
 
 # Targets
 - [x] Create model that predicts DM relic density better than random sampling of target range
@@ -10,5 +10,5 @@ Headline result so far: over a year of processing by the LHC computing cluster, 
 - [x] Create plot of MAE in bins of true relic density
 - [x] Plot upper cutoff of relic density against number of valid but excluded pMSSM models
 - [ ] Apply EWKino model to Bino-DM and evaluate performance
-- [x] Apply same relic density cutoff technique to CLs. Very successful!
-- [ ] Work out similarities between models incorrectly rejected by CLs prediction
+- [x] Apply same relic density cutoff technique to CLs
+- [ ] Investigate valid SUSY models incorrectly rejected by CLs predictor
