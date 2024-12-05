@@ -11,4 +11,4 @@ Headline result so far: my CLs predicting model can correctly remove 45% of inva
 - [x] Plot upper cutoff of relic density against number of valid but excluded pMSSM models
 - [ ] Apply EWKino model to Bino-DM and evaluate performance
 - [x] Apply same relic density cutoff technique to CLs
-- [ ] Investigate valid SUSY models incorrectly rejected by CLs predictor
+- [ ] Characterise those models which my CLs predictor incorrectly rejects
