@@ -6,9 +6,9 @@ Headline result so far: my CLs predicting model can correctly remove 45% of inva
 # Targets
 - [x] Create model that predicts DM relic density better than random sampling of target range
 - [x] Reduce MAE to below 25% of mean absolute target error
-- [ ] Completely eliminate mode collapse
 - [x] Create plot of MAE in bins of true relic density
 - [x] Plot upper cutoff of relic density against number of valid but excluded pMSSM models
 - [ ] Apply EWKino model to Bino-DM and evaluate performance
 - [x] Apply same relic density cutoff technique to CLs
-- [ ] Characterise those models which my CLs predictor incorrectly rejects
+- [x] Characterise those models which my CLs predictor incorrectly rejects
+- [ ] Recreate plots from pMSSM paper with predicted CLs
