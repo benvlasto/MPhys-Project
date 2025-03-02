@@ -4,5 +4,5 @@ EWKino_normalised_inputs_test.csv
 EWKino_normalised_inputs_train.csv
 4l_128n_75e_0.005lr_MAE_with_all_data.csv
 4l_128n_EWKino_with_all_CLs_predictions.csv
-Bino-DM-norm-inputs_train.csv
-Bino-DM-norm-inputs_test.csv
+Bino-DM-norm-inputs-train.csv
+Bino-DM-norm-inputs-test.csv
