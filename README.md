@@ -8,7 +8,7 @@ Results so far: the neural network (NN) trained for the EWKino dataset can categ
 - [x] Reduce MAE to below 25% of mean absolute target error
 - [x] Create plot of MAE in bins of true relic density
 - [x] Plot upper cutoff of relic density against number of valid but excluded pMSSM models
-- [x] Train model for Bino-DM and evaluate performance
 - [x] Apply same relic density cutoff technique to CLs
 - [x] Characterise those models which my CLs predictor incorrectly rejects
 - [x] Recreate plots from pMSSM paper with predicted CLs
+- [x] Train model for Bino-DM and evaluate performance
